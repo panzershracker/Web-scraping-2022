@@ -1,0 +1,135 @@
+{
+ "head": {},
+ "def": [
+  {
+   "text": "scraping",
+   "pos": "noun",
+   "ts": "ˈskreɪpɪŋ",
+   "tr": [
+    {
+     "text": "выскабливание",
+     "pos": "noun",
+     "gen": "ср",
+     "fr": 10,
+     "syn": [
+      {
+       "text": "соскоб",
+       "pos": "noun",
+       "gen": "м",
+       "fr": 10
+      },
+      {
+       "text": "скобление",
+       "pos": "noun",
+       "gen": "ср",
+       "fr": 5
+      }
+     ],
+     "mean": [
+      {
+       "text": "curettage"
+      },
+      {
+       "text": "scrape"
+      }
+     ]
+    },
+    {
+     "text": "соскабливание",
+     "pos": "noun",
+     "gen": "ср",
+     "fr": 5,
+     "mean": [
+      {
+       "text": "scrape"
+      }
+     ]
+    },
+    {
+     "text": "зачистка",
+     "pos": "noun",
+     "gen": "ж",
+     "fr": 5,
+     "syn": [
+      {
+       "text": "очистка",
+       "pos": "noun",
+       "gen": "ж",
+       "fr": 5
+      }
+     ],
+     "mean": [
+      {
+       "text": "stripping"
+      },
+      {
+       "text": "cleaning"
+      }
+     ]
+    },
+    {
+     "text": "циклевка",
+     "pos": "noun",
+     "gen": "ж",
+     "fr": 5
+    },
+    {
+     "text": "скрип",
+     "pos": "noun",
+     "gen": "м",
+     "fr": 5,
+     "mean": [
+      {
+       "text": "creak"
+      }
+     ]
+    },
+    {
+     "text": "шабрение",
+     "pos": "noun",
+     "gen": "ср",
+     "fr": 5
+    }
+   ]
+  },
+  {
+   "text": "scraping",
+   "pos": "adjective",
+   "ts": "ˈskreɪpɪŋ",
+   "tr": [
+    {
+     "text": "скребковый",
+     "pos": "adjective",
+     "fr": 5,
+     "mean": [
+      {
+       "text": "scraper"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "text": "scraping",
+   "pos": "participle",
+   "ts": "ˈskreɪpɪŋ",
+   "tr": [
+    {
+     "text": "скребущий",
+     "pos": "participle",
+     "fr": 5,
+     "mean": [
+      {
+       "text": "scratching"
+      }
+     ]
+    },
+    {
+     "text": "соскабливающий",
+     "pos": "participle",
+     "fr": 1
+    }
+   ]
+  }
+ ]
+}
